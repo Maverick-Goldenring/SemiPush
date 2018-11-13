@@ -7,3 +7,6 @@ function a2() {
 function a3() {
   var2 = "variable 3"
 }
+function a4() {
+  var2 = "variable 4"
+}
