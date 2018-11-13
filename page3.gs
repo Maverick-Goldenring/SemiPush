@@ -4,3 +4,6 @@ function c1() {
 function c2() {
   var2 = "variable 2"
 }
+function c3() {
+  var3 = "variable 3"
+}
