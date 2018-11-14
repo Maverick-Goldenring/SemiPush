@@ -7,3 +7,6 @@ function c2() {
 function c3() {
   var3 = "variable 3"
 }
+function c4() {
+  var4 = "variable 4"
+}
