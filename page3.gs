@@ -13,3 +13,6 @@ function c4() {
 function c5() {
   var5 = "variable 5"
 }
+function c6() {
+  var6 = "variable 6"
+}
