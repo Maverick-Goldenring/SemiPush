@@ -4,3 +4,6 @@ function d1() {
 function d2() {
   var2 = "variable 2"
 }
+function d3() {
+  var3 = "variable 3"
+}
