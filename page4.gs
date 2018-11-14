@@ -13,3 +13,6 @@ function d4() {
 function d5() {
   var5 = "variable 5"
 }
+function d6() {
+  var6 = "variable 6"
+}
