@@ -19,3 +19,6 @@ function a6() {
 function a7() {
   var7 = "variable 7"
 }
+function a8() {
+  var8 = "variable 8"
+}
