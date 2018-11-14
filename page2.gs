@@ -16,3 +16,6 @@ function b5() {
 function b6() {
   var6 = "variable 6"
 }
+function b7() {
+  var7 = "variable 7"
+}
