@@ -2,8 +2,11 @@ function b1() {
   var1 = "variable 1"
 }
 function b2() {
-  var1 = "variable 2"
+  var2 = "variable 2"
 }
 function b3() {
-  var1 = "variable 3"
+  var3 = "variable 3"
+}
+function b4() {
+  var4 = "variable 4"
 }
