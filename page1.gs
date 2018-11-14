@@ -13,3 +13,6 @@ function a4() {
 function a5() {
   var2 = "variable 5"
 }
+function a6() {
+  var2 = "variable 6"
+}
