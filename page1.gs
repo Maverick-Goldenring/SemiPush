@@ -22,3 +22,6 @@ function a7() {
 function a8() {
   var8 = "variable 8"
 }
+function a9() {
+  var9 = "123e12e12e2e12e21e 8"
+}
