@@ -8,5 +8,8 @@ function d3() {
   var3 = "variable 3"
 }
 function d4() {
-  var3 = "variable 4"
+  var4 = "variable 4"
+}
+function d5() {
+  var5 = "variable 5"
 }
