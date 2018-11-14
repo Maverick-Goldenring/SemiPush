@@ -5,14 +5,17 @@ function a2() {
   var2 = "variable 2"
 }
 function a3() {
-  var2 = "variable 3"
+  var3 = "variable 3"
 }
 function a4() {
-  var2 = "variable 4"
+  var4 = "variable 4"
 }
 function a5() {
-  var2 = "variable 5"
+  var5 = "variable 5"
 }
 function a6() {
-  var2 = "variable 6"
+  var6 = "variable 6"
+}
+function a7() {
+  var7 = "variable 7"
 }
